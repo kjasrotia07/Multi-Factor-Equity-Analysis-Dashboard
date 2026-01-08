@@ -7,7 +7,9 @@ Interactive Power BI dashboard for equity investment analysis combining fundamen
 ![Dashboard Overview](https://github.com/kjasrotia07/Multi-Factor-Equity-Analysis-Dashboard/blob/main/image/Apple.jpg)
 ![Dashboard Overview](https://github.com/kjasrotia07/Multi-Factor-Equity-Analysis-Dashboard/blob/main/image/caterpillar%20inc.jpg)
 
-*Add more screenshots as needed*
+**Python visualization**
+![Dashboard Overview](https://github.com/kjasrotia07/Multi-Factor-Equity-Analysis-Dashboard/blob/main/image/image_2026-01-08_202000689.png)
+
 
 ## Project Overview
 
