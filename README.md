@@ -87,7 +87,7 @@ This project implements a systematic approach to equity analysis by integrating 
 This project demonstrates practical application of corporate finance principles, financial modeling techniques, and quantitative risk management. The framework integrates academic concepts from MSc Accounting & Finance coursework with industry-standard valuation methodologies.
 
 **Developed by**: Kashish Jasrotia  
-**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kashish-jasrotia)  
+**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kjasrotia/)  
 **Email**: kjasrotia07@gmail.com
 
 ---
